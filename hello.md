@@ -51,11 +51,13 @@
 
 ![Картинка](https://twinfinite.net/wp-content/uploads/2022/11/Chainsaw-Man-Anime-Opening-Makima-Viewing-Scene-Through-Fingers-Screenshot.jpg?fit=1200%2C675)
 
-## ***Работа с ссылками**
+## ***Работа с ссылками***
 
 Для добавления ссылок необходимо ввести: *[<текст>] (ссылка)* без пробелов!
 
 [Работа с MarkDown](https://lifehacker.ru/chto-takoe-markdown/)
+
+[Справочник по MarkDown](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 
 ## ***Работа со списками***
 
