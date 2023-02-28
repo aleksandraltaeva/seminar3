@@ -40,3 +40,15 @@ Git add
 ![Картинка](https://www.mirf.ru/wp-content/uploads/2020/09/update_1___multi_sourced_4k__kimi_no_na_wa_by_assassinwarrior_dajydsn-fullview.jpg)
 
 [Работа с MarkDown](https://lifehacker.ru/chto-takoe-markdown/)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
+*
++
++
+-
+-
