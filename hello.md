@@ -45,11 +45,15 @@
 
 ## ***Работа с картинками***
 
-Для добавления картинок необходимо ввести: *![<название изображения>](адрес изображения)*
+Для добавления картинок необходимо ввести: *![<название изображения>](адрес изображения)* без пробелов!
 
 ![Картинка](https://www.mirf.ru/wp-content/uploads/2020/09/update_1___multi_sourced_4k__kimi_no_na_wa_by_assassinwarrior_dajydsn-fullview.jpg)
 
 ![Картинка](https://twinfinite.net/wp-content/uploads/2022/11/Chainsaw-Man-Anime-Opening-Makima-Viewing-Scene-Through-Fingers-Screenshot.jpg?fit=1200%2C675)
+
+## ***Работа с ссылками**
+
+Для добавления ссылок необходимо ввести: *[<текст>] (ссылка)* без пробелов!
 
 [Работа с MarkDown](https://lifehacker.ru/chto-takoe-markdown/)
 
